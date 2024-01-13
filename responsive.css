@@ -1,0 +1,17 @@
+@media screen and (max-width: 380px) {
+    .card {
+        padding: 40px 5px;
+    }
+    .search { 
+        
+    }
+    .search button {
+         
+    }
+}
+
+@media screen and (min-width: 381px) and (max-width: 460px) {
+    .card {
+        padding: 40px 5px; 
+    }
+}
